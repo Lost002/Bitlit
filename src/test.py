@@ -1,0 +1,26 @@
+from numbers import mainDisplay
+Display = mainDisplay()
+
+
+
+print(Display.null())
+Display.reset()
+print(Display.zero())
+Display.reset()
+print(Display.one())
+Display.reset()
+print(Display.two())
+Display.reset()
+print(Display.three())
+Display.reset()
+print(Display.four())
+Display.reset()
+print(Display.five())
+Display.reset()
+print(Display.six())
+Display.reset()
+print(Display.seven())
+Display.reset()
+print(Display.eight())
+Display.reset()
+print(Display.nine())
